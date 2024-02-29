@@ -7,7 +7,7 @@ import capaappprevisãotempo from "@/public/capaapprevisãotempo.png";
 
 export const links = [
   {
-    name: "Início",
+    name: "Home",
     hash: "#home",
   },
   {
